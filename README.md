@@ -48,3 +48,7 @@ Families keep their entries through updates.
 - On iPhone, add it to the Home Screen **before** setting it up. The Home Screen app keeps its own data separate from Safari.
 - Deleting the app or clearing the browser's data erases everything, and PCIC can't restore it.
 - The app doesn't alert anyone. Crisis numbers (988, Colorado Crisis Services, 911) are on every screen under **Get help now**.
+
+- ## Live address
+
+https://parentchild.github.io
